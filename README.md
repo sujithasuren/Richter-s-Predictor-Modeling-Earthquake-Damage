@@ -1,8 +1,5 @@
-# House-Price-Prediction
-This project aims to conduct extensive data cleaning on the real-world dataset and provide insights into the factors influencing property prices across the USA. This analysis will assist buyers and sellers to understand how to predict property prices based on various features.
-The modeling process employed the following techniques.
-#                                                    1. Data Wrangling
-#                                                    2. Data Visualization
-#                                                    3. Feature Engineering
-#                                                    4. Predictive Modeling
-#                                                    5. Executive Dashboard
+# Richter's Predictor: Modeling Earthquake Damage
+This project aims to predict the level of damage to buildings caused by the 2015 Gorkha earthquake in Nepal based on the aspects of building location and construction
+This is an intermediate-level practice competition in drivendata.org platform. 
+
+A challenging competition due to large dataset, multi-class objective, and the most valuable features are categorical with many categories/levels. Evaluation is based on the performance metric Micro F1 Score.
